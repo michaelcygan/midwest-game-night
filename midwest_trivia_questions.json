@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "category": "Midwest History",
+    "question": "Which Midwestern city is known as the 'Gateway to the West'?",
+    "answers": [
+      "St. Louis",
+      "Omaha",
+      "Kansas City",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "category": "Midwest History",
+    "question": "The Great Chicago Fire occurred in which year?",
+    "answers": [
+      "1871",
+      "1881",
+      "1865",
+      "1890"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 3,
+    "category": "Midwest History",
+    "question": "What industry was Detroit most famous for in the 20th century?",
+    "answers": [
+      "Automobile",
+      "Steel",
+      "Textiles",
+      "Furniture"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 4,
+    "category": "Midwest History",
+    "question": "Which state was the first in the Midwest to grant women the right to vote?",
+    "answers": [
+      "Kansas",
+      "Wisconsin",
+      "Michigan",
+      "Nebraska"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "category": "Midwest History",
+    "question": "In what year did the Mall of America open?",
+    "answers": [
+      "1992",
+      "1985",
+      "2000",
+      "1995"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 6,
+    "category": "Midwest Geography",
+    "question": "Which Great Lake borders Chicago?",
+    "answers": [
+      "Lake Michigan",
+      "Lake Superior",
+      "Lake Erie",
+      "Lake Huron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 7,
+    "category": "Midwest Geography",
+    "question": "What is the capital of Iowa?",
+    "answers": [
+      "Des Moines",
+      "Cedar Rapids",
+      "Sioux City",
+      "Davenport"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "category": "Midwest Geography",
+    "question": "Which Midwestern state has the most counties?",
+    "answers": [
+      "Kansas",
+      "Missouri",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 9,
+    "category": "Midwest Geography",
+    "question": "Mount Rushmore is located in which state?",
+    "answers": [
+      "South Dakota",
+      "North Dakota",
+      "Minnesota",
+      "Wisconsin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 10,
+    "category": "Midwest Geography",
+    "question": "Which river forms the border between Iowa and Illinois?",
+    "answers": [
+      "Mississippi River",
+      "Missouri River",
+      "Ohio River",
+      "Platte River"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 11,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city is home to the Rock and Roll Hall of Fame?",
+    "answers": [
+      "Cleveland",
+      "Detroit",
+      "Chicago",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 12,
+    "category": "Midwest Culture",
+    "question": "The State Fair butter cow is a tradition in which state?",
+    "answers": [
+      "Iowa",
+      "Ohio",
+      "Indiana",
+      "Wisconsin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern state is known as the 'Badger State'?",
+    "answers": [
+      "Wisconsin",
+      "Minnesota",
+      "Illinois",
+      "Michigan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 14,
+    "category": "Midwest Culture",
+    "question": "What is the signature sandwich of Chicago?",
+    "answers": [
+      "Italian Beef",
+      "Philly Cheesesteak",
+      "Reuben",
+      "Cuban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 15,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city hosts the Indy 500?",
+    "answers": [
+      "Indianapolis",
+      "Columbus",
+      "St. Louis",
+      "Kansas City"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 16,
+    "category": "Midwest Sports",
+    "question": "Which NFL team is based in Green Bay, Wisconsin?",
+    "answers": [
+      "Packers",
+      "Bears",
+      "Vikings",
+      "Lions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 17,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "category": "Midwest Sports",
+    "question": "Which NBA team plays in Cleveland?",
+    "answers": [
+      "Cavaliers",
+      "Bulls",
+      "Pistons",
+      "Pacers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 19,
+    "category": "Midwest Sports",
+    "question": "The University of Michigan's football stadium is nicknamed what?",
+    "answers": [
+      "The Big House",
+      "The Horseshoe",
+      "The Dome",
+      "The Pit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "category": "Midwest Sports",
+    "question": "Which Midwestern city hosted the 2016 World Series won by the Cubs?",
+    "answers": [
+      "Cleveland",
+      "Chicago",
+      "Detroit",
+      "Milwaukee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 21,
+    "category": "Midwest Music",
+    "question": "Prince was born in which Midwestern city?",
+    "answers": [
+      "Minneapolis",
+      "Chicago",
+      "Detroit",
+      "St. Paul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "category": "Midwest Music",
+    "question": "Which Motown legend sang 'My Girl'?",
+    "answers": [
+      "The Temptations",
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Four Tops"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "category": "Midwest Music",
+    "question": "Kanye West grew up in which city?",
+    "answers": [
+      "Chicago",
+      "Detroit",
+      "Cleveland",
+      "St. Louis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "category": "Midwest Music",
+    "question": "Which band sang 'Dust in the Wind'?",
+    "answers": [
+      "Kansas",
+      "Styx",
+      "REO Speedwagon",
+      "Chicago"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 26,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 27,
+    "category": "Midwest Sports",
+    "question": "Which NBA team plays in Cleveland?",
+    "answers": [
+      "Cavaliers",
+      "Bulls",
+      "Pistons",
+      "Pacers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 28,
+    "category": "Midwest History",
+    "question": "In what year did the Mall of America open?",
+    "answers": [
+      "1992",
+      "1985",
+      "2000",
+      "1995"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "category": "Midwest Geography",
+    "question": "Which Midwestern state has the most counties?",
+    "answers": [
+      "Kansas",
+      "Missouri",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 30,
+    "category": "Midwest Culture",
+    "question": "What is the signature sandwich of Chicago?",
+    "answers": [
+      "Italian Beef",
+      "Philly Cheesesteak",
+      "Reuben",
+      "Cuban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 31,
+    "category": "Midwest Sports",
+    "question": "Which NFL team is based in Green Bay, Wisconsin?",
+    "answers": [
+      "Packers",
+      "Bears",
+      "Vikings",
+      "Lions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 32,
+    "category": "Midwest History",
+    "question": "The Great Chicago Fire occurred in which year?",
+    "answers": [
+      "1871",
+      "1881",
+      "1865",
+      "1890"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 33,
+    "category": "Midwest Geography",
+    "question": "Which river forms the border between Iowa and Illinois?",
+    "answers": [
+      "Mississippi River",
+      "Missouri River",
+      "Ohio River",
+      "Platte River"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 34,
+    "category": "Midwest Music",
+    "question": "Kanye West grew up in which city?",
+    "answers": [
+      "Chicago",
+      "Detroit",
+      "Cleveland",
+      "St. Louis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "category": "Midwest Music",
+    "question": "Kanye West grew up in which city?",
+    "answers": [
+      "Chicago",
+      "Detroit",
+      "Cleveland",
+      "St. Louis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 36,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city hosts the Indy 500?",
+    "answers": [
+      "Indianapolis",
+      "Columbus",
+      "St. Louis",
+      "Kansas City"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 37,
+    "category": "Midwest History",
+    "question": "The Great Chicago Fire occurred in which year?",
+    "answers": [
+      "1871",
+      "1881",
+      "1865",
+      "1890"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "category": "Midwest Music",
+    "question": "Kanye West grew up in which city?",
+    "answers": [
+      "Chicago",
+      "Detroit",
+      "Cleveland",
+      "St. Louis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 39,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 40,
+    "category": "Midwest Geography",
+    "question": "Which river forms the border between Iowa and Illinois?",
+    "answers": [
+      "Mississippi River",
+      "Missouri River",
+      "Ohio River",
+      "Platte River"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 41,
+    "category": "Midwest Music",
+    "question": "Which Motown legend sang 'My Girl'?",
+    "answers": [
+      "The Temptations",
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Four Tops"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city hosts the Indy 500?",
+    "answers": [
+      "Indianapolis",
+      "Columbus",
+      "St. Louis",
+      "Kansas City"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 43,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city hosts the Indy 500?",
+    "answers": [
+      "Indianapolis",
+      "Columbus",
+      "St. Louis",
+      "Kansas City"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 44,
+    "category": "Midwest Culture",
+    "question": "The State Fair butter cow is a tradition in which state?",
+    "answers": [
+      "Iowa",
+      "Ohio",
+      "Indiana",
+      "Wisconsin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 45,
+    "category": "Midwest History",
+    "question": "What industry was Detroit most famous for in the 20th century?",
+    "answers": [
+      "Automobile",
+      "Steel",
+      "Textiles",
+      "Furniture"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 46,
+    "category": "Midwest Geography",
+    "question": "Mount Rushmore is located in which state?",
+    "answers": [
+      "South Dakota",
+      "North Dakota",
+      "Minnesota",
+      "Wisconsin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 47,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 48,
+    "category": "Midwest Music",
+    "question": "Which Motown legend sang 'My Girl'?",
+    "answers": [
+      "The Temptations",
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Four Tops"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 49,
+    "category": "Midwest Geography",
+    "question": "Which Great Lake borders Chicago?",
+    "answers": [
+      "Lake Michigan",
+      "Lake Superior",
+      "Lake Erie",
+      "Lake Huron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 50,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern state is known as the 'Badger State'?",
+    "answers": [
+      "Wisconsin",
+      "Minnesota",
+      "Illinois",
+      "Michigan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 52,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 53,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 54,
+    "category": "Midwest Culture",
+    "question": "The State Fair butter cow is a tradition in which state?",
+    "answers": [
+      "Iowa",
+      "Ohio",
+      "Indiana",
+      "Wisconsin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 55,
+    "category": "Midwest Music",
+    "question": "Prince was born in which Midwestern city?",
+    "answers": [
+      "Minneapolis",
+      "Chicago",
+      "Detroit",
+      "St. Paul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 56,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "category": "Midwest History",
+    "question": "In what year did the Mall of America open?",
+    "answers": [
+      "1992",
+      "1985",
+      "2000",
+      "1995"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 58,
+    "category": "Midwest Music",
+    "question": "Prince was born in which Midwestern city?",
+    "answers": [
+      "Minneapolis",
+      "Chicago",
+      "Detroit",
+      "St. Paul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 59,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city is home to the Rock and Roll Hall of Fame?",
+    "answers": [
+      "Cleveland",
+      "Detroit",
+      "Chicago",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern state is known as the 'Badger State'?",
+    "answers": [
+      "Wisconsin",
+      "Minnesota",
+      "Illinois",
+      "Michigan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "category": "Midwest Culture",
+    "question": "The State Fair butter cow is a tradition in which state?",
+    "answers": [
+      "Iowa",
+      "Ohio",
+      "Indiana",
+      "Wisconsin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 62,
+    "category": "Midwest Music",
+    "question": "Which band sang 'Dust in the Wind'?",
+    "answers": [
+      "Kansas",
+      "Styx",
+      "REO Speedwagon",
+      "Chicago"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 63,
+    "category": "Midwest Geography",
+    "question": "Which river forms the border between Iowa and Illinois?",
+    "answers": [
+      "Mississippi River",
+      "Missouri River",
+      "Ohio River",
+      "Platte River"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 64,
+    "category": "Midwest Sports",
+    "question": "The University of Michigan's football stadium is nicknamed what?",
+    "answers": [
+      "The Big House",
+      "The Horseshoe",
+      "The Dome",
+      "The Pit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 65,
+    "category": "Midwest Music",
+    "question": "Kanye West grew up in which city?",
+    "answers": [
+      "Chicago",
+      "Detroit",
+      "Cleveland",
+      "St. Louis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 66,
+    "category": "Midwest Sports",
+    "question": "Which NBA team plays in Cleveland?",
+    "answers": [
+      "Cavaliers",
+      "Bulls",
+      "Pistons",
+      "Pacers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 67,
+    "category": "Midwest Culture",
+    "question": "What is the signature sandwich of Chicago?",
+    "answers": [
+      "Italian Beef",
+      "Philly Cheesesteak",
+      "Reuben",
+      "Cuban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 68,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city is home to the Rock and Roll Hall of Fame?",
+    "answers": [
+      "Cleveland",
+      "Detroit",
+      "Chicago",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 69,
+    "category": "Midwest History",
+    "question": "Which Midwestern city is known as the 'Gateway to the West'?",
+    "answers": [
+      "St. Louis",
+      "Omaha",
+      "Kansas City",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 70,
+    "category": "Midwest Geography",
+    "question": "What is the capital of Iowa?",
+    "answers": [
+      "Des Moines",
+      "Cedar Rapids",
+      "Sioux City",
+      "Davenport"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 71,
+    "category": "Midwest History",
+    "question": "Which Midwestern city is known as the 'Gateway to the West'?",
+    "answers": [
+      "St. Louis",
+      "Omaha",
+      "Kansas City",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 72,
+    "category": "Midwest Culture",
+    "question": "What is the signature sandwich of Chicago?",
+    "answers": [
+      "Italian Beef",
+      "Philly Cheesesteak",
+      "Reuben",
+      "Cuban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 73,
+    "category": "Midwest Music",
+    "question": "Which Motown legend sang 'My Girl'?",
+    "answers": [
+      "The Temptations",
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Four Tops"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 74,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 75,
+    "category": "Midwest Geography",
+    "question": "Which Great Lake borders Chicago?",
+    "answers": [
+      "Lake Michigan",
+      "Lake Superior",
+      "Lake Erie",
+      "Lake Huron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 76,
+    "category": "Midwest History",
+    "question": "The Great Chicago Fire occurred in which year?",
+    "answers": [
+      "1871",
+      "1881",
+      "1865",
+      "1890"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 77,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 78,
+    "category": "Midwest Music",
+    "question": "John Mellencamp is from which state?",
+    "answers": [
+      "Indiana",
+      "Ohio",
+      "Illinois",
+      "Iowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "category": "Midwest Music",
+    "question": "Which Motown legend sang 'My Girl'?",
+    "answers": [
+      "The Temptations",
+      "Marvin Gaye",
+      "Stevie Wonder",
+      "Four Tops"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 81,
+    "category": "Midwest Geography",
+    "question": "Which Great Lake borders Chicago?",
+    "answers": [
+      "Lake Michigan",
+      "Lake Superior",
+      "Lake Erie",
+      "Lake Huron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 82,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 83,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city hosts the Indy 500?",
+    "answers": [
+      "Indianapolis",
+      "Columbus",
+      "St. Louis",
+      "Kansas City"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 84,
+    "category": "Midwest Geography",
+    "question": "Which river forms the border between Iowa and Illinois?",
+    "answers": [
+      "Mississippi River",
+      "Missouri River",
+      "Ohio River",
+      "Platte River"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 85,
+    "category": "Midwest Culture",
+    "question": "What is the signature sandwich of Chicago?",
+    "answers": [
+      "Italian Beef",
+      "Philly Cheesesteak",
+      "Reuben",
+      "Cuban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 86,
+    "category": "Midwest Culture",
+    "question": "What is the signature sandwich of Chicago?",
+    "answers": [
+      "Italian Beef",
+      "Philly Cheesesteak",
+      "Reuben",
+      "Cuban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 87,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 88,
+    "category": "Midwest Sports",
+    "question": "The University of Michigan's football stadium is nicknamed what?",
+    "answers": [
+      "The Big House",
+      "The Horseshoe",
+      "The Dome",
+      "The Pit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 89,
+    "category": "Midwest Culture",
+    "question": "What is the signature sandwich of Chicago?",
+    "answers": [
+      "Italian Beef",
+      "Philly Cheesesteak",
+      "Reuben",
+      "Cuban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 90,
+    "category": "Midwest Geography",
+    "question": "Which river forms the border between Iowa and Illinois?",
+    "answers": [
+      "Mississippi River",
+      "Missouri River",
+      "Ohio River",
+      "Platte River"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 91,
+    "category": "Midwest Geography",
+    "question": "What is the capital of Iowa?",
+    "answers": [
+      "Des Moines",
+      "Cedar Rapids",
+      "Sioux City",
+      "Davenport"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 92,
+    "category": "Midwest Geography",
+    "question": "Which Great Lake borders Chicago?",
+    "answers": [
+      "Lake Michigan",
+      "Lake Superior",
+      "Lake Erie",
+      "Lake Huron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 93,
+    "category": "Midwest Sports",
+    "question": "The University of Michigan's football stadium is nicknamed what?",
+    "answers": [
+      "The Big House",
+      "The Horseshoe",
+      "The Dome",
+      "The Pit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 94,
+    "category": "Midwest Music",
+    "question": "Which band sang 'Dust in the Wind'?",
+    "answers": [
+      "Kansas",
+      "Styx",
+      "REO Speedwagon",
+      "Chicago"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 96,
+    "category": "Midwest History",
+    "question": "In what year did the Mall of America open?",
+    "answers": [
+      "1992",
+      "1985",
+      "2000",
+      "1995"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 97,
+    "category": "Midwest Geography",
+    "question": "What is the capital of Iowa?",
+    "answers": [
+      "Des Moines",
+      "Cedar Rapids",
+      "Sioux City",
+      "Davenport"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 98,
+    "category": "Midwest Sports",
+    "question": "Which NBA team plays in Cleveland?",
+    "answers": [
+      "Cavaliers",
+      "Bulls",
+      "Pistons",
+      "Pacers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 99,
+    "category": "Midwest History",
+    "question": "Which Midwestern city is known as the 'Gateway to the West'?",
+    "answers": [
+      "St. Louis",
+      "Omaha",
+      "Kansas City",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 100,
+    "category": "Midwest Sports",
+    "question": "The University of Michigan's football stadium is nicknamed what?",
+    "answers": [
+      "The Big House",
+      "The Horseshoe",
+      "The Dome",
+      "The Pit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 101,
+    "category": "Midwest Sports",
+    "question": "Which NBA team plays in Cleveland?",
+    "answers": [
+      "Cavaliers",
+      "Bulls",
+      "Pistons",
+      "Pacers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 102,
+    "category": "Midwest History",
+    "question": "Which Midwestern city is known as the 'Gateway to the West'?",
+    "answers": [
+      "St. Louis",
+      "Omaha",
+      "Kansas City",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 103,
+    "category": "Midwest Sports",
+    "question": "The Chicago Cubs play at which stadium?",
+    "answers": [
+      "Wrigley Field",
+      "Comiskey Park",
+      "Busch Stadium",
+      "Target Field"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "category": "Midwest History",
+    "question": "Which state was the first in the Midwest to grant women the right to vote?",
+    "answers": [
+      "Kansas",
+      "Wisconsin",
+      "Michigan",
+      "Nebraska"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 105,
+    "category": "Midwest Sports",
+    "question": "The University of Michigan's football stadium is nicknamed what?",
+    "answers": [
+      "The Big House",
+      "The Horseshoe",
+      "The Dome",
+      "The Pit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 106,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city hosts the Indy 500?",
+    "answers": [
+      "Indianapolis",
+      "Columbus",
+      "St. Louis",
+      "Kansas City"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 107,
+    "category": "Midwest Music",
+    "question": "Which band sang 'Dust in the Wind'?",
+    "answers": [
+      "Kansas",
+      "Styx",
+      "REO Speedwagon",
+      "Chicago"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 108,
+    "category": "Midwest Music",
+    "question": "Kanye West grew up in which city?",
+    "answers": [
+      "Chicago",
+      "Detroit",
+      "Cleveland",
+      "St. Louis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 109,
+    "category": "Midwest History",
+    "question": "Which Midwestern city is known as the 'Gateway to the West'?",
+    "answers": [
+      "St. Louis",
+      "Omaha",
+      "Kansas City",
+      "Minneapolis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 110,
+    "category": "Midwest Music",
+    "question": "Kanye West grew up in which city?",
+    "answers": [
+      "Chicago",
+      "Detroit",
+      "Cleveland",
+      "St. Louis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 111,
+    "category": "Midwest Culture",
+    "question": "Which Midwestern city hosts the Indy 500?",
+    "answers": [
+      "Indianapolis",
+      "Columbus",
+      "St. Louis",
+      "Kansas City"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 112,
+    "category": "Midwest Geography",
+    "question": "What is the capital of Iowa?",
+    "answers": [
+      "Des Moines",
+      "Cedar Rapids",
+      "Sioux City",
+      "Davenport"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 113,
+    "category": "Midwest History",
+    "question": "What industry was Detroit most famous for in the 20th century?",
+    "answers": [
+      "Automobile",
+      "Steel",
+      "Textiles",
+      "Furniture"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 114,
+    "category": "Midwest Geography",
+    "question": "Which Great Lake borders Chicago?",
+    "answers": [
+      "Lake Michigan",
+      "Lake Superior",
+      "Lake Erie",
+      "Lake Huron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 115,
+    "category": "Midwest History",
+    "question": "In what year did the Mall of America open?",
+    "answers": [
+      "1992",
+      "1985",
+      "2000",
+      "1995"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 116,
+    "category": "Midwest Sports",
+    "question": "The University of Michigan's football stadium is nicknamed what?",
+    "answers": [
+      "The Big House",
+      "The Horseshoe",
+      "The Dome",
+      "The Pit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 117,
+    "category": "Midwest Sports",
+    "question": "Which NFL team is based in Green Bay, Wisconsin?",
+    "answers": [
+      "Packers",
+      "Bears",
+      "Vikings",
+      "Lions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 118,
+    "category": "Midwest Sports",
+    "question": "Which NFL team is based in Green Bay, Wisconsin?",
+    "answers": [
+      "Packers",
+      "Bears",
+      "Vikings",
+      "Lions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 119,
+    "category": "Midwest History",
+    "question": "What industry was Detroit most famous for in the 20th century?",
+    "answers": [
+      "Automobile",
+      "Steel",
+      "Textiles",
+      "Furniture"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 120,
+    "category": "Midwest Geography",
+    "question": "Which river forms the border between Iowa and Illinois?",
+    "answers": [
+      "Mississippi River",
+      "Missouri River",
+      "Ohio River",
+      "Platte River"
+    ],
+    "correctIndex": 0
+  }
+]
